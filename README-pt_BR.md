@@ -1,5 +1,3 @@
-[English](./README.md) | [繁中版](./README-tw.md) | [简中版](./README-zh.md) | [Français](./README-fr.md) | [한국어](./README-ko.md) | [Nederlands](./README-nl.md) | [Indonesia](./README-id.md) | [ไทย](./README-th.md) | [Русский](./README-ru.md) | [Українська](./README-uk.md) | [Español](./README-es.md) | [Italiano](./README-it.md) | [日本語](./README-ja.md) | [Deutsch](./README-de.md) | [Türkçe](./README-tr.md) | [Tiếng Việt](./README-vi.md) | [Монгол](./README-mn.md) | [हिंदी](./README-hi.md) | [العربية](./README-ar.md) | [Polski](./README-pl.md) | [Македонски](./README-mk.md) | [ລາວ](./README-lo.md)
-
 # API Security Checklist
 Lista das mais importantes medidas de segurança para o desenvolvimento, teste e publicação da sua API.
 
@@ -62,11 +60,6 @@ Lista das mais importantes medidas de segurança para o desenvolvimento, teste e
 - [ ] Certifique-se de que todos os componentes de seus serviços sejam validados por _softwares_ AV (anti-vírus, anti-_malware_) antes de enviar para produção, incluindo as dependências de terceiros utilizadas.
 - [ ] Implemente funcionalidade de reversão de _deploy_ (_rollback_).
 
-
----
-
-## Veja também:
-- [yosriady/api-development-tools](https://github.com/yosriady/api-development-tools) - Uma coleção de recursos úteis para a construção de API RESTful HTTP+JSON.
 
 
 ---
