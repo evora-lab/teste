@@ -60,9 +60,3 @@ Lista das mais importantes medidas de segurança para o desenvolvimento, teste e
 - [ ] Certifique-se de que todos os componentes de seus serviços sejam validados por _softwares_ AV (anti-vírus, anti-_malware_) antes de enviar para produção, incluindo as dependências de terceiros utilizadas.
 - [ ] Implemente funcionalidade de reversão de _deploy_ (_rollback_).
 
-
-
----
-
-# Contribuindo
-Sinta-se livre para contribuir, fazendo um fork deste repositório, fazendo algumas alterações e enviando um PR. Dúvidas, envie um e-mail para `team@shieldfy.io`.
